@@ -1,5 +1,5 @@
 {
-  "_class_name": "StableDiffusionPipeline",
+  "_class_name": "StableDiffusionInstructPix2PixPipeline",
   "_diffusers_version": "0.12.0.dev0",
   "feature_extractor": [
     "transformers",
