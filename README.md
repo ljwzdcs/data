@@ -13,7 +13,7 @@ GitHub: https://github.com/timothybrooks/instruct-pix2pix
 To use `InstructPix2Pix`, install `diffusers` using `main` for now. The pipeline will be available in the next release
 
 ```bash
-pip install git+https://github.com/huggingface/diffusers.git
+pip install diffusers accelerate safetensors transformers
 ```
 
 ```python
