@@ -1,5 +1,7 @@
 ---
 license: mit
+tags:
+- image-to-image
 ---
 
 # InstructPix2Pix: Learning to Follow Image Editing Instructions
